@@ -1,7 +1,7 @@
 ## Look Over Here!: ATARI Eye-Tracking ML Analysis
 **Code:** [Look Over Here! Jupyter Notebook](https://github.com/ahourani2000/Look-Over-Here/blob/main/MS%20Technical%20Paper.ipynb)
 
-**Technical Paper:** [Look Over Here!](Final_MS_Technical_Paper.pdf)
+**Technical Paper:** [Look Over Here!](https://github.com/ahourani2000/Look-Over-Here/blob/main/Final%20MS%20Technical%20Paper.pdf)
 
 **Goal:** 
 - Analyze human gaze patterns for video game performance using the Atari Eye-tracking dataset that featured 16 different Atari games.
